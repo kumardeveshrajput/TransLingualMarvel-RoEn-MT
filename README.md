@@ -3,8 +3,6 @@ A Seq2Seq Neural Machine Translation project for Romanian to English. Leveraging
 
 Objective​
 
-​
-
 Importance of Machine Translation:​
 
 Effortlessly facilitates mutual understanding across diverse languages.​
@@ -27,32 +25,36 @@ Specifically addresses challenges in Romanian to English translation.
 
 
 
+
+
+
+
+
+
+
 Overview​
 
-​
 
 Objective: Translate Romanian sentences to English​
 
-​
-
 Model: LSTM Translingual Translator​
-
-​
 
 Model Type: Seq2Seq Neural Machine Translation​
 
-​
-
 Libraries Used: Keras, NLTK, Jiwer, Plotly, Tabulate​
-
-​
 
 Evaluation Metrics: WER, BLEU, METEOR
 
 
-Training​
 
-​
+
+
+
+
+
+
+
+Training​
 
 Hyperparameters:​
 
@@ -68,57 +70,48 @@ Validation Split: 0.1​
 
 Loss Function: Sparse Categorical Crossentropy​
 
-​
-
 Optimizer: Adam
+
+
+
+
+
+
+
+
+
 
 
 Evaluation Metrics​
 
-​
-
 WER (Word Error Rate): 0.2167​
-
-​
 
 BLEU Score: 0.8957​
 
-​
-
 METEOR Score: 0.7931​
 
-​
-
 Test Loss: 1.4607​
-
-​
 
 Cross Entropy Loss: 0.1672
 
 
 
-Conclusion​
 
-​
+
+
+
+
+
+Conclusion​
 
 Successful exploration of "Translingual Marvel: Unveiling the Enigma of Romanian to English Machine Translation" with a focus on Seq2Seq Neural Machine Translation.​
 
-​
-
 Emphasis on efficient tokenization and Seq2Seq architecture optimizations as crucial elements for enhancing translation quality.​
-
-​
 
 Comprehensive evaluation using WER, BLEU, METEOR, and loss metrics, providing valuable insights into the model's performance.​
 
-​
-
 Strategic use of Keras, NLTK, Jiwer, Plotly, and Tabulate libraries for streamlined implementation and evaluation.​
-
-​
 
 Clear demonstration of the project's impact in fostering cross-cultural communication and understanding through machine translation.​
 
-​
-
-Reflection on the significance of lessons learned, paving the way for future innovations and improvements in the dynamic field of natural language processing.​
+​Reflection on the significance of lessons learned, paving the way for future innovations and improvements in the dynamic field of natural language processing.​
